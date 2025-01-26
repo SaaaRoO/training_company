@@ -1,3 +1,4 @@
+
 # Training Company Management System
 
 A Django web application for managing courses, trainers, and payments with CRUD operations and reporting.
@@ -17,7 +18,7 @@ A Django web application for managing courses, trainers, and payments with CRUD 
 - **Testing**: Django Test Framework, pytest
 - **APIs**: Django REST Framework (Optional)
 
----
+
 
 ## Setup & Installation
 
