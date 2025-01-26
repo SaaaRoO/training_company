@@ -27,20 +27,19 @@ A Django web application for managing courses, trainers, and payments with CRUD 
    git clone https://github.com/SaaaRoO/training_company.git
    cd training_company
 
-
-## 2. Install Dependencies
+2. Install Dependencies
 ```bash
  pip install -r requirements.txt
 
-### 3. Database Setup
+3. Database Setup
 ```bash
   python manage.py migrate
 
-### 4. Run the Development Server
+4. Run the Development Server
 ```bash
   python manage.py runserver
 
-Visit http://localhost:8000 in your browser.
+- Visit http://localhost:8000 in your browser.
 
 
 ## Key Test Cases
