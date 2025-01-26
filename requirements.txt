@@ -1,0 +1,17 @@
+# Core Requirements
+Django==4.2.7
+django-environ==0.11.2
+django-crispy-forms==2.1
+djangorestframework==3.14.0  # Optional for API development
+
+# Database (SQLite for development, PostgreSQL for production)
+psycopg2-binary==2.9.9  # PostgreSQL adapter
+
+# Testing
+pytest==7.4.0
+pytest-django==4.7.0
+pytest-cov==4.1.0
+
+# Static Files and Frontend
+whitenoise==6.6.0  # For serving static files in production
+
