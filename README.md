@@ -23,12 +23,12 @@ A Django web application for managing courses, trainers, and payments with CRUD 
 ## Setup & Installation
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/SaaaRoO/training_company.git
-cd training_company
+  ```bash
+   git clone https://github.com/SaaaRoO/training_company.git
+   cd training_company
 
-### 2. Install Dependencies
 
+## 2. Install Dependencies
 ```bash
  pip install -r requirements.txt
 
