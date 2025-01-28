@@ -66,6 +66,14 @@ python manage.py runserver
 - Test authentication requirements for protected views.
 - Verify CSRF validation on all form submissions.
 
+  ## Demo to the website :
+
+  
+
+https://github.com/user-attachments/assets/d6191251-7fe5-4325-b31c-df1236416448
+
+
+
 
 
 
