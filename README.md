@@ -17,7 +17,7 @@ A Django web application for managing courses, trainers, and payments with CRUD 
 - **Database**: SQLite (Development), PostgreSQL (Production-ready)
 - **Frontend**: HTML, CSS, JavaScript
 - **Testing**: Django Test Framework, pytest
-- **APIs**: Django REST Framework (Optional)
+- **APIs**: Django REST Framework 
 
 ## Setup & Installation
 
